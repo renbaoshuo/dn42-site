@@ -5,6 +5,7 @@
 |            Location | Shijiazhuang, Hebei, China
 |                 ISP | China Unicom
 |          Port Speed | 30 Mbps
+|                 ASN | 4242420247
 | WireGuard Pubic Key | `0F5gjo9MmpWhbRYU7bKApk+DZ7qv/jnufykdLKiFjzY=`
 |            EndPoint | *Not available*
 |      WireGuard Port | *Not available*

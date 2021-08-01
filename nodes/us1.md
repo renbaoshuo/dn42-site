@@ -4,6 +4,7 @@
 | ------------------: | :---------------------------------------------
 |            Location | Kansas City, Missouri, United States
 |          Port Speed | 100 Mbps
+|                 ASN | 4242420247
 | WireGuard Pubic Key | `tRRiOqYhTsygV08ltrWtMkfJxCps1+HUyN4tb1J7Yn4=`
 |            EndPoint | `us1.dn42.as141776.net`
 |      WireGuard Port | `4xxxx` (xxxx = last 4 ASN digits)

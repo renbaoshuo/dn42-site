@@ -5,6 +5,7 @@
 |            Location | Falkenstein, Saxony, Germany
 |                 ISP | Hetzner
 |          Port Speed | 100 Mbps
+|                 ASN | 4242420247
 | WireGuard Pubic Key | `edTGR6Fs0rwAmGzWx/Zl6xxksYveRo+d75wWjxQYN0g=`
 |            EndPoint | `eu1.dn42.as141776.net`
 |      WireGuard Port | `4xxxx` (xxxx = last 4 ASN digits)
