@@ -1,6 +1,6 @@
 # 宝硕 DN42 计算机网 Baoshuo DN42 Network
 
-[Education And Research Network](https://net.baoshuo.ren) | **DN42 Network**
+[Education And Research Network](https://net.baoshuo.ren) \| **DN42 Network**
 
 ## 介绍 Introduce
 
@@ -15,6 +15,11 @@ This network supports IPv4 and IPv6.
 ## 路由传播图 Route Propagation Graph
 
 ![](https://bgp-api.strexp.net/as_graph/AS4242420247)
+
+## 前缀 Prefixes
+
++ **IPv4**: `172.23.250.64/26` `10.127.60.0/24`
++ **IPv6**: `fdbb:7278:face::/48` `fd10:127:9898::/48`
 
 ## 对等互联 Peering
 
