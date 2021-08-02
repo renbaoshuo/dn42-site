@@ -29,9 +29,9 @@ We have an open peering policy. You can peer with us by establishing a WireGuard
 
 ## 位置 Locations
 
-+ 中国石家庄 Shijiazhuang, CN ([details](/nodes/cn1.html))
-+ 美国密苏里州堪萨斯城 Kansas City, Missouri, US ([details](/nodes/us1.html))
-+ 德国萨克森自由州法尔肯施泰因 Falkenstein, Saxony, DE ([details](/nodes/eu1.html))
++ 中国河北省石家庄市 Shijiazhuang, Hebei, China ([details](/nodes/cn1.html))
++ 美国密苏里州堪萨斯城 Kansas City, Missouri, United States ([details](/nodes/us1.html))
++ 德国萨克森自由州法尔肯施泰因 Falkenstein, Saxony, Germany ([details](/nodes/eu1.html))
 
 ## 联系 Contact
 
