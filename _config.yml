@@ -4,6 +4,10 @@ url: "https://dn42.baoshuo.ren"
 exclude:
   - node_modules
   - script
+logo: https://cdn.jsdelivr.net/npm/bsi@0.0.3/favicon/128x128.png
+twitter:
+  username: renbaoshuo
+  card: summary
 
 sass:
   style: :compressed
@@ -12,3 +16,9 @@ theme: jekyll-theme-primer
 
 github:
   private: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://cdn.jsdelivr.net/npm/bsi@0.0.3/favicon/128x128.png
