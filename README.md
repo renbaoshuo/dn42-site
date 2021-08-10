@@ -38,3 +38,9 @@ We have an open peering policy. You can peer with us by establishing a WireGuard
 请发邮件到 [i@baoshuo.ren](mailto:i@baoshuo.ren) 。回复可能会很慢。
 
 Please send email to [i@baoshuo.ren](mailto:i@baoshuo.ren) . Replying maybe slow.
+
+## 关于 About
+
+建议在 Telegram 上关注 [@BaoshuoNetwork](https://t.me/s/BaoshuoNetwork) 以获取最新信息。
+
+It is recommended that follow [@BaoshuoNetwork](https://t.me/s/BaoshuoNetwork) on Telegram to get the latest information.
