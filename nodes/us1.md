@@ -12,5 +12,6 @@
 |   DN42 IPv6 Address | `fd42:4242:247:2::1`
 |  Link Local Address | `fe80::247`
 |  Multi Protocol BGP | **Required** (link local IPv6 preferred)
+|   Extended Next Hop | No
 
 [« Back](/)
