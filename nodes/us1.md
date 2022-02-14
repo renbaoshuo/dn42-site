@@ -2,11 +2,11 @@
 
 |                Name | Detail
 | ------------------: | :---------------------------------------------
-|            Location | Kansas City, Missouri, United States
-|          Port Speed | 100 Mbps
+|            Location | Los Angeles, California, United States
+|          Port Speed | 1 Gbps
 |                 ASN | `4242420247`
 | WireGuard Pubic Key | `tRRiOqYhTsygV08ltrWtMkfJxCps1+HUyN4tb1J7Yn4=`
-|            EndPoint | `us1.dn42.as141776.net`
+|            EndPoint | `us1.dn42.baoshuo.dev`
 |      WireGuard Port | `4xxxx` (xxxx = last 4 ASN digits)
 |   DN42 IPv4 Address | `172.23.250.81`
 |   DN42 IPv6 Address | `fd42:4242:247:2::1`
